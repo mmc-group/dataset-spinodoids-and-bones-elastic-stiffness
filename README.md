@@ -1,7 +1,7 @@
 # dataset-spinodoids-and-bones-elastic-stiffness
 Dataset for the publication: 
 
-Weiting Deng, Siddhant Kumar, Alberto Vallone, Dennis M. Kochmann, and Julia R. Greer,  "**AI-Enabled Materials Design of Non-periodic 3D Architectures with Predictable Direction-dependent Elastic Properties**", Advanced Materials, TBD, DOI: TBD.
+W. Deng, S. Kumar, A. Vallone, D.M. Kochmann, and J.R. Greer,  "**AI-Enabled Materials Design of Non-periodic 3D Architectures with Predictable Direction-dependent Elastic Properties**", Advanced Materials, TBD, DOI: TBD.
 
 ## File and data column descriptions
 
@@ -62,7 +62,7 @@ Weiting Deng, Siddhant Kumar, Alberto Vallone, Dennis M. Kochmann, and Julia R. 
 </br>
 
 ## Citation
-If you use this data, please cite the above publication (DOI: TBD).
+If you use this data, please cite the publication: W. Deng, S. Kumar, A. Vallone, D.M. Kochmann, and J.R. Greer,  "**AI-Enabled Materials Design of Non-periodic 3D Architectures with Predictable Direction-dependent Elastic Properties**", Advanced Materials, TBD, DOI: TBD.
 
 
 Shield: [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
