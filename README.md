@@ -1,7 +1,7 @@
 # dataset-spinodoids-and-bones-elastic-stiffness
 Dataset for the publication: 
 
-W. Deng, S. Kumar, A. Vallone, D.M. Kochmann, and J.R. Greer,  "**AI-Enabled Materials Design of Non-periodic 3D Architectures with Predictable Direction-dependent Elastic Properties**", Advanced Materials, TBD, DOI: TBD.
+W. Deng, S. Kumar, A. Vallone, D.M. Kochmann, and J.R. Greer,  "**AI-Enabled Materials Design of Non-periodic 3D Architectures with Predictable Direction-dependent Elastic Properties**", Advanced Materials, 2308149 (2024), DOI: https://doi.org/10.1002/adma.202308149.
 
 ## File and data column descriptions
 
@@ -62,7 +62,7 @@ W. Deng, S. Kumar, A. Vallone, D.M. Kochmann, and J.R. Greer,  "**AI-Enabled Mat
 </br>
 
 ## Citation
-If you use this data, please cite the publication: W. Deng, S. Kumar, A. Vallone, D.M. Kochmann, and J.R. Greer,  "**AI-Enabled Materials Design of Non-periodic 3D Architectures with Predictable Direction-dependent Elastic Properties**", Advanced Materials, TBD, DOI: TBD.
+If you use this data, please cite the publication: W. Deng, S. Kumar, A. Vallone, D.M. Kochmann, and J.R. Greer,  "**AI-Enabled Materials Design of Non-periodic 3D Architectures with Predictable Direction-dependent Elastic Properties**", Advanced Materials, 2308149 (2024), DOI: 10.1002/adma.202308149
 
 
 Shield: [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
